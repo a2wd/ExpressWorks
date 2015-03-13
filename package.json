@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Solutions to the express workshopper problems",
   "main": "1.HelloWorld.js",
-	"repository": "https://github.com/a2wd/ExpressWorks.git",
+  "repository": "https://github.com/a2wd/ExpressWorks.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +18,6 @@
     "body-parser": "^1.12.0",
     "express": "^4.12.2",
     "jade": "^1.9.2",
-    "path": "^0.11.14"
+    "stylus": "^0.50.0"
   }
 }
